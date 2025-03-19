@@ -1,8 +1,9 @@
 # 🚀 My Awesome Project  
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)  
-![GitHub Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge)  
-![GitHub Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge)  
+![GitHub Repo Stars]![NPM Downloads](https://img.shields.io/npm/dw/%40whiskeysockets%2Fbaileys?label=npm&color=%23CB3837)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/whiskeysockets/baileys)
+![Discord](https://img.shields.io/discord/725839806084546610?label=discord&color=%235865F2)
+
 
 ## 📝 Description  
 Ini adalah proyek keren yang dibuat dengan 💡 dan penuh inovasi!  
