@@ -16,7 +16,12 @@ whiskeysockets/baileys adalah library Node.js untuk berkomunikasi dengan WhatsAp
 
 ## 🔧 Features  
 -Kirim & terima pesan, gambar, dan dokumen
+
 -Kelola grup & kontak
+
 -Support multi-device (MD)
+
 -Dll
 
+
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://youtube.com/@rendyx_solo-player?si=7iaWrjzWQMv5GA4O)  
